@@ -1,16 +1,32 @@
-# slicing_ui_open_fashion
+# Mobile App Ui Design (Fashion App)
 
-A new Flutter project.
+Beautiful mobile app design (fashion app) with flutter
 
-## Getting Started
+## Tech Used
 
-This project is a starting point for a Flutter application.
+<ul>
+  <li>Dart</li>
+  <li>Flutter</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1>Hi, I'm Adam Kandias! 👋</h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 About Me
+I'm a Fullstack Developer and Mobile Developer
+
+## 🛠 Skills
+**Backend:** PHP, Codeigniter, Laravel, Java, Java Spring, Golang
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript
+
+**Mobile:** Dart, Flutter
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kandias/)
+[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adam_kandias/)
+
+## Closing
+Thank you for taking the time to read and see my project. don't hesitate to ask or contact me.</br>
+<strong>Thank You!</strong>
+
